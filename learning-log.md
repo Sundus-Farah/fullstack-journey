@@ -30,9 +30,6 @@
   - Software Documentation (technical, user, API, README)
 - Starting Module 2 today: Deep dive into SDLC phases
 
-- Here are all your entries — add them one by one to your learning log:
-
-```
 ## July 8, 2026
 - Course 1: Introduction to Software Engineering
 - Completed: Basics of Web and Cloud Development
